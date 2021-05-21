@@ -1,3 +1,9 @@
+---
+noteId: "f6113120b9f511eba0c64ffabff3407d"
+tags: []
+
+---
+
 OpenAPI Client and Server Code Generator
 ----------------------------------------
 
