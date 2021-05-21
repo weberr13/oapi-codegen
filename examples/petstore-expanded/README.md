@@ -1,3 +1,9 @@
+---
+noteId: "f6117f40b9f511eba0c64ffabff3407d"
+tags: []
+
+---
+
 OpenAPI Code Generation Example
 -------------------------------
 
